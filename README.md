@@ -45,7 +45,10 @@ Just download jquery.rediect.js and include it in your html after jquery.js
  </html>
  ```
 ## CDN
-If you prefer, you can use [RawGit CDN hosted version](https://cdn.rawgit.com/mgalante/jquery.redirect/master/jquery.redirect.js)
+If you prefer, you can use [jsDelivr CDN](https://www.jsdelivr.com/package/npm/jquery.redirect):
+```html
+<script src="https://cdn.jsdelivr.net/npm/jquery.redirect/jquery.redirect.js"></script>
+```
 
 
 ## Usage
